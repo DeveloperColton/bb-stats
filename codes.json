@@ -1,0 +1,32 @@
+{
+	"release": {
+		"RewardType": "Coins",
+		"Reward": 500,
+		"GroupOnly": false
+	},
+	"moneymaker": {
+		"RewardType": "x2CoinBoost",
+		"Reward": 900,
+		"GroupOnly": false
+	},
+	"membersonly": {
+		"RewardType": "x2CoinBoost",
+		"Reward": 900,
+		"GroupOnly": true
+	},
+	"6klikes": {
+		"RewardType": "Gun",
+		"Reward": "Potato Launcher",
+		"GroupOnly": false
+	},
+	"petupdate": {
+		"RewardType": "Gems",
+		"Reward": 2500,
+		"GroupOnly": false
+	},
+	"9million": {
+		"RewardType": "x2GemBoost",
+		"Reward": 900,
+		"GroupOnly": false
+	}
+}

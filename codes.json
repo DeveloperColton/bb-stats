@@ -14,11 +14,6 @@
 		"Reward": 900,
 		"GroupOnly": true
 	},
-	"6klikes": {
-		"RewardType": "Gun",
-		"Reward": "Potato Launcher",
-		"GroupOnly": false
-	},
 	"petupdate": {
 		"RewardType": "Gems",
 		"Reward": 2500,
@@ -27,6 +22,11 @@
 	"9million": {
 		"RewardType": "x2GemBoost",
 		"Reward": 900,
+		"GroupOnly": false
+	},
+	"20klikes": {
+		"RewardType": "Gun",
+		"Reward": "Potato Launcher",
 		"GroupOnly": false
 	}
 }
